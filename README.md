@@ -6,7 +6,7 @@ Thank you Reaktor for the amazing competition.
 
 ### Assignments &copy; Reaktor:
 
-## [Product of Consecutive Numbers](https://github.com/jonitaajamo/Reaktor-code-golf/blob/master/code/numbers.py)
+## [Product of Consecutive Numbers](https://github.com/valtterikodisto/reaktor-code-golf/blob/master/code/numbers.py)
 
 Our implementation's character count: 137
 
@@ -30,7 +30,7 @@ Input:
 
 Output: 598
 
-## [Jallu Index](https://github.com/jonitaajamo/Reaktor-code-golf/blob/master/code/alko.py)
+## [Jallu Index](https://github.com/valtterikodisto/reaktor-code-golf/blob/master/code/alko.py)
 
 Our implementation's character count: 85
 
@@ -44,7 +44,7 @@ Nothing.
 
 16,99
 
-## [To Integer](https://github.com/jonitaajamo/Reaktor-code-golf/blob/master/code/to_integer.py)
+## [To Integer](https://github.com/valtterikodisto/reaktor-code-golf/blob/master/code/to_integer.py)
 
 Our implementation's character count: 115
 
